@@ -1,6 +1,4 @@
-# DK-Files-Store-Bot
-
-https://railway.app/new/template/tShOZG?referralCode=2AeM3i
+#DK-Files-Store-Bot
 
 
 Deploy to railway
