@@ -9,3 +9,5 @@ Deploy to railway
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/DK-Files-Store-Bot)
 
 Dkmovie
+
+5139083086:AAHnXqQvMNsnfv4qkl8gqLPpcgX5sDRFISs
