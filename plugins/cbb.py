@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>╭━━━━━━━━━━━━━━━➣\n┣⪼ Creator : <a href='tg://user?id={OWNER_ID}'>ME</a>\n┣⪼ Language : Python3\n┣⪼ Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n┣⪼ Source Code : <a href='https://github.com/Dkmovie/DK-Files-Store-Bot'>DK-File Store Bot</a>\n┣⪼ Channel : <a href='https://t.me/DK_Gru'>DK_movie</a>\n┣⪼ how to mack bot : <a href='https://youtu.be/lIweNNObiy0'>Opus Techz</a>\n╰━━━━━━━━━━━━━━━➣</b>",
+            text = f"<b>╭━━━━━━━━━━━━━━━➣\n┣⪼ Creator : <a href='tg://user?id={OWNER_ID}'>ME</a>\n┣⪼ Language : Python3\n┣⪼ Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n┣⪼ Source Code : <a href='https://github.com/Dkmovie/DK-Files-Store-Bot'>DK-File Store Bot</a>\n┣⪼ Channel : <a href='https://t.me/DK_Gru'>𝘿𝙆_𝙈𝙊𝙑𝙄𝙀</a>\n┣⪼ how to mack bot : <a href='https://youtu.be/lIweNNObiy0'>Opus Techz</a>\n╰━━━━━━━━━━━━━━━➣</b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
